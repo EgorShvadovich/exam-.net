@@ -1,0 +1,17 @@
+{
+  "smtp": {
+    "gmail": {
+      "host": "smtp.gmail.com",
+      "port": 587,
+      "email": "egorshvadovich@gmail.com",
+      "password": "ufzolwyxhilrbkko",
+      "ssl": true
+    }
+  },
+  "dbms": {
+    "planetScale": "Server=aws.connect.psdb.cloud;Database=database1;user=10311ca41fkdyet6n2lg;password=pscale_pw_XIdY1AUM0JH4gYXAX5hreh7aPGRpsvyoDYM3UJYEEJA;SslMode=VerifyFull;\"",
+  }
+}
+
+  }
+}
